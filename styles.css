@@ -123,13 +123,22 @@ pre {
   padding: 1rem;
 }
 
-/* Footer */
+/* Cards */
 
-.page-footer {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+#popular {
+  display: flex;
 }
 
-.page-footer ul {
-  list-style: none;
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  padding: 1em;
+  margin: 1em;
+  background-color: #EEE;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.30);
+}
+
+.card img {
+  width: 100%;
 }
