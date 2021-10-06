@@ -142,3 +142,10 @@ pre {
 .card img {
   width: 100%;
 }
+
+/* Swatches */
+
+.swatches {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
