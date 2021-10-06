@@ -23,6 +23,10 @@ body {
   margin: 0;
 }
 
+section:not(#nav, #banner, #about, #popular) {
+  min-height: 100vh;
+}
+
 /* Typography */
 
 h1, h2, h3 , h4, h5, h6 { margin-bottom: 2rem; }
