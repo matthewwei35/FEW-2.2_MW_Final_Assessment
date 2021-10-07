@@ -83,7 +83,7 @@ form {
   flex-direction: column;
 }
 
-label {
+.text-form {
   display: flex;
   flex-direction: column;
 }
@@ -163,403 +163,403 @@ pre {
 }
 
 .color-0 {
-  background-color: #45308f;
+  background-color: #887bc0;
 }
 
 .color-1 {
-  background-color: #71aa3f;
+  background-color: #e1e0ea;
 }
 
 .color-2 {
-  background-color: #4d46ec;
+  background-color: #d2843c;
 }
 
 .color-3 {
-  background-color: #234ccc;
+  background-color: #5d617c;
 }
 
 .color-4 {
-  background-color: #51cb94;
+  background-color: #0842fc;
 }
 
 .color-5 {
-  background-color: #a157d1;
+  background-color: #9c9184;
 }
 
 .color-6 {
-  background-color: #088ceb;
+  background-color: #76f431;
 }
 
 .color-7 {
-  background-color: #0abcab;
+  background-color: #ffc264;
 }
 
 .color-8 {
-  background-color: #051eb7;
+  background-color: #974470;
 }
 
 .color-9 {
-  background-color: #08d2f7;
+  background-color: #70804a;
 }
 
 .color-10 {
-  background-color: #a908ad;
+  background-color: #6b08df;
 }
 
 .color-11 {
-  background-color: #6e8e93;
+  background-color: #acf3c7;
 }
 
 .color-12 {
-  background-color: #47b31a;
+  background-color: #7d7ffa;
 }
 
 .color-13 {
-  background-color: #dc5b0e;
+  background-color: #689daa;
 }
 
 .color-14 {
-  background-color: #e5d928;
+  background-color: #30d49f;
 }
 
 .color-15 {
-  background-color: #32a581;
+  background-color: #4cbaa3;
 }
 
 .color-16 {
-  background-color: #9eded6;
+  background-color: #114eaa;
 }
 
 .color-17 {
-  background-color: #eb32f4;
+  background-color: #27e11c;
 }
 
 .color-18 {
-  background-color: #5874d1;
+  background-color: #6d3011;
 }
 
 .color-19 {
-  background-color: #6fbe65;
+  background-color: #37419a;
 }
 
 .color-20 {
-  background-color: #0a593b;
+  background-color: #5cbaeb;
 }
 
 .color-21 {
-  background-color: #3edede;
+  background-color: #bd368d;
 }
 
 .color-22 {
-  background-color: #6303d0;
+  background-color: #c06047;
 }
 
 .color-23 {
-  background-color: #d802ee;
+  background-color: #29122e;
 }
 
 .color-24 {
-  background-color: #8a1120;
+  background-color: #ea1844;
 }
 
 .color-25 {
-  background-color: #f8f88c;
+  background-color: #8887c8;
 }
 
 .color-26 {
-  background-color: #9030de;
+  background-color: #a32d05;
 }
 
 .color-27 {
-  background-color: #74e2c2;
+  background-color: #330f70;
 }
 
 .color-28 {
-  background-color: #c8d0cd;
+  background-color: #339a84;
 }
 
 .color-29 {
-  background-color: #32fd57;
+  background-color: #2e6674;
 }
 
 .color-30 {
-  background-color: #6230f2;
+  background-color: #31cd99;
 }
 
 .color-31 {
-  background-color: #b81e6f;
+  background-color: #c88f9c;
 }
 
 .color-32 {
-  background-color: #774a44;
+  background-color: #b06ca3;
 }
 
 .color-33 {
-  background-color: #358243;
+  background-color: #0c61bf;
 }
 
 .color-34 {
-  background-color: #c0ecd8;
+  background-color: #3bcd68;
 }
 
 .color-35 {
-  background-color: #b3c627;
+  background-color: #0966c7;
 }
 
 .color-36 {
-  background-color: #5c54db;
+  background-color: #1d9ee1;
 }
 
 .color-37 {
-  background-color: #4fdd71;
+  background-color: #dab0fa;
 }
 
 .color-38 {
-  background-color: #98197b;
+  background-color: #75b865;
 }
 
 .color-39 {
-  background-color: #519697;
+  background-color: #d1dc08;
 }
 
 .color-40 {
-  background-color: #202eab;
+  background-color: #261376;
 }
 
 .color-41 {
-  background-color: #6bb223;
+  background-color: #6223c2;
 }
 
 .color-42 {
-  background-color: #0a7342;
+  background-color: #719c1c;
 }
 
 .color-43 {
-  background-color: #4d34bd;
+  background-color: #2f5336;
 }
 
 .color-44 {
-  background-color: #d0dee2;
+  background-color: #90506b;
 }
 
 .color-45 {
-  background-color: #b11337;
+  background-color: #da1fc0;
 }
 
 .color-46 {
-  background-color: #be5621;
+  background-color: #43b736;
 }
 
 .color-47 {
-  background-color: #110c34;
+  background-color: #9af8d1;
 }
 
 .color-48 {
-  background-color: #922c22;
+  background-color: #ddd8c5;
 }
 
 .color-49 {
-  background-color: #87ff6f;
+  background-color: #5652d4;
 }
 
 .color-50 {
-  background-color: #b57061;
+  background-color: #8c099e;
 }
 
 .color-51 {
-  background-color: #b93358;
+  background-color: #e8810d;
 }
 
 .color-52 {
-  background-color: #a2aa03;
+  background-color: #dc852b;
 }
 
 .color-53 {
-  background-color: #865cb6;
+  background-color: #c9d9b9;
 }
 
 .color-54 {
-  background-color: #463037;
+  background-color: #29d4f1;
 }
 
 .color-55 {
-  background-color: #a92020;
+  background-color: #c8d168;
 }
 
 .color-56 {
-  background-color: #fcbce4;
+  background-color: #89c34e;
 }
 
 .color-57 {
-  background-color: #4ee6c1;
+  background-color: #8c47e6;
 }
 
 .color-58 {
-  background-color: #117c63;
+  background-color: #4545a3;
 }
 
 .color-59 {
-  background-color: #1fde9d;
+  background-color: #cc39a0;
 }
 
 .color-60 {
-  background-color: #f760ed;
+  background-color: #d45520;
 }
 
 .color-61 {
-  background-color: #9aed75;
+  background-color: #8f58a6;
 }
 
 .color-62 {
-  background-color: #c32c7d;
+  background-color: #bf4267;
 }
 
 .color-63 {
-  background-color: #227bea;
+  background-color: #b29f86;
 }
 
 .color-64 {
-  background-color: #5b2259;
+  background-color: #e9f3c4;
 }
 
 .color-65 {
-  background-color: #b30c79;
+  background-color: #668323;
 }
 
 .color-66 {
-  background-color: #41f66d;
+  background-color: #d27372;
 }
 
 .color-67 {
-  background-color: #154f25;
+  background-color: #58ce92;
 }
 
 .color-68 {
-  background-color: #d1a4a5;
+  background-color: #ede351;
 }
 
 .color-69 {
-  background-color: #12d470;
+  background-color: #2ce332;
 }
 
 .color-70 {
-  background-color: #9d7bf9;
+  background-color: #da0391;
 }
 
 .color-71 {
-  background-color: #4af117;
+  background-color: #e746f0;
 }
 
 .color-72 {
-  background-color: #186f65;
+  background-color: #151eb4;
 }
 
 .color-73 {
-  background-color: #100873;
+  background-color: #539cec;
 }
 
 .color-74 {
-  background-color: #406198;
+  background-color: #02f83a;
 }
 
 .color-75 {
-  background-color: #918480;
+  background-color: #951849;
 }
 
 .color-76 {
-  background-color: #1d0339;
+  background-color: #6ed45a;
 }
 
 .color-77 {
-  background-color: #7013b3;
+  background-color: #9533e2;
 }
 
 .color-78 {
-  background-color: #d884bc;
+  background-color: #b4402a;
 }
 
 .color-79 {
-  background-color: #b426fa;
+  background-color: #ec1710;
 }
 
 .color-80 {
-  background-color: #9e754b;
+  background-color: #77523e;
 }
 
 .color-81 {
-  background-color: #4c9a10;
+  background-color: #4bb997;
 }
 
 .color-82 {
-  background-color: #82d983;
+  background-color: #2a959a;
 }
 
 .color-83 {
-  background-color: #050b55;
+  background-color: #89ce77;
 }
 
 .color-84 {
-  background-color: #4d0ab3;
+  background-color: #90c806;
 }
 
 .color-85 {
-  background-color: #9e7191;
+  background-color: #65b7b6;
 }
 
 .color-86 {
-  background-color: #34991b;
+  background-color: #da1f84;
 }
 
 .color-87 {
-  background-color: #4bdb26;
+  background-color: #dba857;
 }
 
 .color-88 {
-  background-color: #c39c23;
+  background-color: #ecbddc;
 }
 
 .color-89 {
-  background-color: #6670b5;
+  background-color: #f3d880;
 }
 
 .color-90 {
-  background-color: #da7c13;
+  background-color: #8b7d06;
 }
 
 .color-91 {
-  background-color: #0d2b70;
+  background-color: #aff318;
 }
 
 .color-92 {
-  background-color: #1c47e7;
+  background-color: #efb8f4;
 }
 
 .color-93 {
-  background-color: #1fa1b4;
+  background-color: #9bcb33;
 }
 
 .color-94 {
-  background-color: #4c672c;
+  background-color: #f1e762;
 }
 
 .color-95 {
-  background-color: #d823c3;
+  background-color: #ec0876;
 }
 
 .color-96 {
-  background-color: #13eb61;
+  background-color: #7a2c47;
 }
 
 .color-97 {
-  background-color: #812b3a;
+  background-color: #b41bc4;
 }
 
 .color-98 {
-  background-color: #5e54ba;
+  background-color: #1d4026;
 }
 
 .color-99 {
-  background-color: #8e6ec5;
+  background-color: #0da2a6;
 }
 
 /* Cart */
@@ -567,6 +567,11 @@ pre {
   display: flex;
   justify-content: end;
   font-size: 4rem;
+}
+
+/* Contact */
+textarea {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
 /*# sourceMappingURL=styles.css.map */
