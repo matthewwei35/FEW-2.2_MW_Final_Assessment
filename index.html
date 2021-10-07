@@ -274,7 +274,7 @@
         for (let i = 0; i < cart.length; i += 1) {
           total += cart[i].price * cart[i].qty
         }
-        return total.toFixed(2)
+        return `$${total.toFixed(2)}`
       }
 
       function updateCart(name, qty) {

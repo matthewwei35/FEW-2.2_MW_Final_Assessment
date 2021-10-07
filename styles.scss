@@ -156,8 +156,16 @@ pre {
   grid-template-columns: repeat(5, 1fr);
 }
 
-@for $n from 0 to 99 {
+@for $n from 0 to 100 {
   .color-#{$n} {
     background-color: rgb(random(255), random(255), random(255));
   }
+}
+
+/* Cart */
+
+#total {
+  display: flex;
+  justify-content: end;
+  font-size: 4rem;
 }
