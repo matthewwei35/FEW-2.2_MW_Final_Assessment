@@ -41,10 +41,10 @@ h6 { font-size: 1.25rem; }
 a {
   text-decoration: none;
   color: var(--color-primary);
-}
 
-a:hover {
-  color: var(--color-dark-primary);
+  &:hover {
+    color: var(--color-dark-primary);
+  }
 }
 
 /* Buttons */
@@ -56,10 +56,10 @@ button {
   background-color: var(--color-primary);
   color: var(--color-background);
   margin: 0;
-}
 
-button:hover {
-  background-color: var(--color-dark-primary);
+  &:hover {
+    background-color: var(--color-dark-primary);
+  }
 }
 
 /* Form Styles */
@@ -85,28 +85,28 @@ input, textarea {
 /* Navbars */
 
 .navbar {
+  display: flex;
+  flex-direction: row;
   background-color: var(--color-dark);
   color: var(--color-lightest);
-  display: flex;
-  flex-direction: row;
   padding: 1rem;
-}
 
-.navbar ul {
-  display: flex;
-  flex-direction: row;
-  list-style: none;
-  align-items: baseline;
-  padding: 0;
-  margin: 0;
-}
+  & .title {
+    margin: 0;
+  }
 
-.navbar .title {
-  margin: 0;
-}
+  & ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    align-items: baseline;
+    padding: 0;
+    margin: 0;
+  }
 
-.navbar ul a {
-  margin: 0 0 0 1rem;
+  & ul a {
+    margin: 0 0 0 1rem;
+  }
 }
 
 .sticky {
@@ -137,10 +137,10 @@ pre {
   margin: 1em;
   background-color: #EEE;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.30);
-}
 
-.card img {
-  width: 100%;
+  & img {
+    width: 100%;
+  }
 }
 
 /* Swatches */
